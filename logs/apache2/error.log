@@ -1,0 +1,376 @@
+[Tue Aug 01 08:17:35.090147 2023] [authz_core:error] [pid 19] [client 172.23.0.1:53052] AH01630: client denied by server configuration: /etc/apache2/D:
+[Tue Aug 01 08:17:35.119314 2023] [authz_core:error] [pid 19] [client 172.23.0.1:53052] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Tue Aug 01 08:17:35.654902 2023] [authz_core:error] [pid 19] [client 172.23.0.1:53052] AH01630: client denied by server configuration: /etc/apache2/D:
+[Tue Aug 01 08:17:35.687811 2023] [authz_core:error] [pid 19] [client 172.23.0.1:53052] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Tue Aug 01 08:21:34.398129 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 08:21:49.458427 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 08:21:49.459335 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 09:52:22.353807 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:20:03.427601 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:20:03.428059 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 10:22:13.403666 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 10:32:53.085146 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:32:53.136209 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 10:32:53.143277 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:32:53.143554 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 10:37:34.636005 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:37:40.637581 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:37:40.638198 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 10:41:19.795508 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 10:41:35.867932 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:41:35.922838 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 10:41:35.932949 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:41:35.933332 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 10:46:15.581454 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 10:46:18.549707 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:46:18.606881 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 10:46:18.614438 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:46:18.614775 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 10:46:24.347857 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 10:46:27.324530 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:46:27.377966 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 10:46:27.384873 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:46:27.385232 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 10:46:59.230770 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 10:52:51.591077 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:52:51.656417 2023] [ssl:warn] [pid 1] AH01909: localhost.test:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 10:52:51.667473 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:52:51.667930 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 10:54:20.072668 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.29.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 10:54:36.796378 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 10:54:36.797157 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 12:49:54.045817 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 12:50:17.873263 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 12:50:17.873591 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 13:28:17.597881 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 13:28:21.157619 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 13:28:21.157965 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 13:46:17.446077 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 13:46:20.479267 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 13:46:20.479724 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 14:07:31.353914 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.31.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 14:07:47.486639 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 14:07:47.487251 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 14:11:26.893658 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 14:12:04.780550 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 14:12:04.781052 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 14:16:55.876950 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 14:17:14.824261 2023] [ssl:warn] [pid 1] AH01909: localhost/test:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.16.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 14:17:14.892503 2023] [ssl:warn] [pid 1] AH01909: localhost/test:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 14:17:14.901398 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 14:17:14.901894 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 14:21:51.642899 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 14:21:54.537625 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.16.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 14:21:54.580439 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 14:21:54.587790 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 14:21:54.588397 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Aug 01 14:22:13.112431 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Aug 01 14:22:26.900944 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 01 14:22:26.974937 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 01 14:22:26.983254 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Aug 01 14:22:26.983567 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 06:09:07.375512 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Aug 02 06:09:40.849295 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 06:09:40.936478 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 02 06:09:40.944150 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 06:09:40.944752 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 06:21:26.618466 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Aug 02 06:21:30.454181 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 06:21:30.499701 2023] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 02 06:21:30.506829 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 06:21:30.507228 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 06:46:45.613526 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 06:46:48.805531 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 06:46:48.806762 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 07:19:48.092104 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 07:19:51.296926 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 07:19:51.297530 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 07:35:30.978127 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 07:37:58.944115 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 07:37:58.944785 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 07:38:02.859137 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 07:53:30.242925 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 07:53:30.243589 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 07:56:53.124782 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 07:57:08.758313 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 07:57:08.758823 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 07:58:28.056498 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.112.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 07:58:48.490728 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 07:58:48.491098 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 08:16:05.098138 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.128.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 08:22:19.694456 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 08:22:19.695044 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 09:26:25.396966 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.176.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 09:31:06.166274 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 09:31:06.166864 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 09:41:07.394959 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.176.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 09:41:10.632630 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 09:41:10.633061 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 09:43:19.908536 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.176.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 09:52:17.303777 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 09:52:17.304417 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 11:31:48.492674 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.176.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 11:33:24.803262 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 11:33:24.803688 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 11:37:42.520818 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.192.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 11:38:06.279331 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 11:38:06.279735 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 11:39:19.128258 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.224.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 11:46:25.708512 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 11:46:25.709038 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 11:51:41.045642 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.240.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 11:51:58.531346 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 11:51:58.531869 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 11:59:51.922392 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 12:00:07.704927 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 12:00:07.705305 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 12:10:42.931228 2023] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 12:10:45.072266 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 12:10:45.073025 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 12:11:34.111314 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 12:11:37.172405 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 12:11:37.173284 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 12:53:49.811379 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 12:56:02.157540 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 12:56:02.158206 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 12:56:52.860469 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 12:56:52.897667 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 12:56:56.566223 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 12:56:56.597813 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 12:56:58.926315 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 12:56:58.973231 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 12:56:59.551323 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 12:56:59.584916 2023] [authz_core:error] [pid 20] [client 172.21.0.1:54316] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 12:58:08.230918 2023] [authz_core:error] [pid 18] [client 172.21.0.1:54326] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 12:58:08.315388 2023] [authz_core:error] [pid 18] [client 172.21.0.1:54326] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 13:00:15.767973 2023] [authz_core:error] [pid 18] [client 172.21.0.1:59830] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 13:00:15.830321 2023] [authz_core:error] [pid 18] [client 172.21.0.1:59830] AH01630: client denied by server configuration: /etc/apache2/D:, referer: https://localhost:444/
+[Wed Aug 02 13:27:12.999691 2023] [authz_core:error] [pid 17] [client 172.21.0.1:54372] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 13:27:13.161282 2023] [authz_core:error] [pid 17] [client 172.21.0.1:54372] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 13:27:43.601849 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 13:28:00.837054 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 13:28:00.837873 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 13:28:30.751172 2023] [authz_core:error] [pid 17] [client 172.22.0.1:54380] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 13:28:30.826961 2023] [authz_core:error] [pid 17] [client 172.22.0.1:54380] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 13:28:37.995554 2023] [authz_core:error] [pid 18] [client 172.22.0.1:54384] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 13:28:43.012822 2023] [authz_core:error] [pid 19] [client 172.22.0.1:54388] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 13:29:01.269653 2023] [authz_core:error] [pid 20] [client 172.22.0.1:54438] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 13:29:01.342639 2023] [authz_core:error] [pid 20] [client 172.22.0.1:54438] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 13:36:35.347090 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 13:39:58.968077 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 13:39:58.968479 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 13:40:48.070336 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 13:41:07.284944 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 13:41:07.285238 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 13:47:59.935276 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 13:50:16.565293 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 13:50:16.565923 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 14:01:50.878185 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 14:02:15.391304 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 14:02:15.391673 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Aug 02 14:04:28.639666 2023] [authz_core:error] [pid 17] [client 172.27.0.1:54484] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:04:28.721402 2023] [authz_core:error] [pid 17] [client 172.27.0.1:54484] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:04:30.917849 2023] [authz_core:error] [pid 17] [client 172.27.0.1:54484] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:04:30.965615 2023] [authz_core:error] [pid 17] [client 172.27.0.1:54484] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:04:31.545684 2023] [authz_core:error] [pid 17] [client 172.27.0.1:54484] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:04:31.586463 2023] [authz_core:error] [pid 17] [client 172.27.0.1:54484] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:05:26.859825 2023] [authz_core:error] [pid 20] [client 172.27.0.1:33516] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:05:26.921927 2023] [authz_core:error] [pid 20] [client 172.27.0.1:33516] AH01630: client denied by server configuration: /etc/apache2/D:, referer: https://localhost:442/
+[Wed Aug 02 14:05:40.563209 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:05:40.632355 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:05:42.620974 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:05:42.664103 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:05:43.122996 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:05:43.157644 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:05:43.328394 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:05:43.361452 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:05:43.539157 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:05:43.577472 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:05:43.823204 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:
+[Wed Aug 02 14:05:43.865197 2023] [authz_core:error] [pid 21] [client 172.27.0.1:54666] AH01630: client denied by server configuration: /etc/apache2/D:, referer: http://localhost:81/
+[Wed Aug 02 14:06:12.939060 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 02 14:44:00.954849 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Aug 02 14:44:00.955427 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:30:53.678263 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.29.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:36:21.464538 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:36:21.465025 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:38:22.740755 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.29.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:40:22.669973 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:40:22.670527 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:40:55.898893 2023] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.29.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:40:57.867597 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:40:57.868315 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:41:01.303352 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.29.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:41:04.355662 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:41:04.356189 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:41:51.837405 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:46:05.173468 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:46:05.173857 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:46:06.824582 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:46:09.725611 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:46:09.726231 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:46:47.615348 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:46:50.703894 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:46:50.704668 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 06:47:03.134663 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www] does not exist
+AH00112: Warning: DocumentRoot [/etc/apache2/D:/dlamp/www/secured] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 03 06:49:02.797162 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Aug 03 06:49:02.797716 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Aug 03 12:04:39.875670 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.31.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 04 16:03:20.765593 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Aug 04 16:03:20.765943 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Aug 04 16:31:01.470479 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 04 16:31:52.527749 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Aug 04 16:31:52.528127 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Aug 04 16:46:30.349783 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.16.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 04 16:46:55.031189 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Aug 04 16:46:55.031805 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
